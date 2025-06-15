@@ -95,9 +95,7 @@ class CameraMouseControllerAdvanzado:
             'y_max': 1.0 - self.margen_zona
         }
         
-        print("🎯 Controlador de Mouse Avanzado con MediaPipe")
         print(f"📺 Resolución de pantalla: {self.screen_width}x{self.screen_height}")
-        print("🤏 Detección de manos con puntos de referencia precisos")
         print("")
         print("🎮 Controles básicos:")
         print("  - ESPACIO: Activar/pausar control del mouse")
@@ -878,7 +876,6 @@ class CameraMouseControllerAdvanzado:
             self.cap.release()
         cv2.destroyAllWindows()
         print("🧹 Recursos liberados")
-        print("👋 ¡Gracias por usar el Control de Mouse Avanzado!")
 
 
 def main():
