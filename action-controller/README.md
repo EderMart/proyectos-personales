@@ -194,6 +194,7 @@ mouse_controller.py          # Archivo principal
 Este proyecto fue desarrollado con la **asistencia de Inteligencia Artificial** para acelerar el proceso de desarrollo y mejorar la calidad del código:
 
 ### 🔧 Áreas donde se utilizó IA:
+- **📚 Documentación**
 - **📝 Optimización de algoritmos** de detección de gestos
 - **🎯 Mejora de la precisión** en el mapeo de coordenadas
 - **⚡ Optimización de rendimiento** y suavizado de movimientos
