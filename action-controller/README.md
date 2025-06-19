@@ -44,8 +44,8 @@ Sistema de control de mouse mediante gestos de mano utilizando visión por compu
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/control-mouse-gestos.git
-cd control-mouse-gestos
+git clone https://github.com/EderMart/proyectos-personales.git
+cd control-mouse
 ```
 
 ### 2. Instalar dependencias
