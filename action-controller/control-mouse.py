@@ -756,7 +756,6 @@ class CameraMouseControllerAdvanzado:
             return
         
         self.is_running = True
-        print("\n🚀 Sistema iniciado con TODAS las funcionalidades!")
         print("👆 PARA EMPEZAR:")
         print("   1. Presiona ESPACIO para ACTIVAR el control")
         print("   2. Usa gestos con tu mano:")
@@ -893,7 +892,6 @@ def main():
     args.sensitivity = max(0.1, min(3.0, args.sensitivity))
     args.smoothing = max(0.1, min(1.0, args.smoothing))
     
-    print("🎯 Control de Mouse Avanzado con MediaPipe")
     print("=" * 50)
     print("Dependencias requeridas:")
     print("pip install opencv-python mediapipe pyautogui numpy")

@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ### 3. Ejecutar el programa
 ```bash
-python mouse_controller.py
+python control-mouse.py
 ```
 
 ## 🎮 Uso del Sistema
