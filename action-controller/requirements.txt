@@ -1,0 +1,24 @@
+# Control de Mouse con Gestos - Dependencias
+# Instalación: pip install -r requirements.txt
+
+# Visión por computadora y detección de manos
+opencv-python>=4.5.0
+mediapipe>=0.8.9
+
+# Control del mouse y sistema operativo
+pyautogui>=0.9.53
+
+# Computación numérica
+numpy>=1.19.0
+
+# Dependencias opcionales para mejor rendimiento
+# Descomenta si experimentas problemas de rendimiento
+
+# Para aceleración de OpenCV (opcional)
+# opencv-contrib-python>=4.5.0
+
+# Para mejor rendimiento en Windows (opcional)
+# pywin32>=227; sys_platform == "win32"
+
+# Para mejor soporte de cámara en Linux (opcional)
+# v4l2-python3>=0.3.2; sys_platform == "linux"
